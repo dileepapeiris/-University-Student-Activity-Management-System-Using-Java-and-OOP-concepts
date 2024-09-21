@@ -1,0 +1,2 @@
+# -University-Student-Activity-Management-System-Using-Java-and-OOP-concepts
+I developed a  Student Activity Management System for university staff to manage student data for three modules in Semester 1. It supports up to 100 students, featuring student registration, deletion, record search, and sorting. It calculates grades, generates reports, and uses OOP, arrays, file handling, and algorithms for data management.
